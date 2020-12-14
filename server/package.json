@@ -1,5 +1,5 @@
 {
-  "name": "shortigator-server",
+  "name": "shorty-server",
   "version": "1.0.0",
   "description": "Node server that provides and handles shortened URLs",
   "main": "index.js",
